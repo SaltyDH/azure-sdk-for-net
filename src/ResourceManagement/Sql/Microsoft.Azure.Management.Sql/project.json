@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0-preview",
+  "version": "1.0.1-preview",
   "description": "Microsoft Azure Management Sql Library",
   "authors": [ "Microsoft" ],
 
@@ -17,9 +17,9 @@
         "CS1591"
       ],
     "xmlDoc": true,
-    "delaySign": true,
+    "delaySign": false,
     "publicSign": false,
-    "keyFile": "../../../../tools/MSSharedLibKey.snk"
+    "keyFile": "../../../../tools/Development.snk"
   },
 
   "dependencies": {
